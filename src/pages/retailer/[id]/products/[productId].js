@@ -7,7 +7,7 @@ const ProductPage = () => {
     return (<>
         <Header />
         <div class="container mx-auto p-12">
-            <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Hey Juliet</h1>
+            <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Hey Juliette</h1>
             <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400"> you are one step closer to becoming an <b>EcoChamp</b>!</p>
             <a href="#" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:ring-yellow-300 dark:focus:ring-yellow-900">
                 Learn more
@@ -24,9 +24,9 @@ const ProductPage = () => {
                 alt=""
             />
             <div class="p-12">
-                <div class="mb-1 text-lg font-medium dark:text-white">Your EcoPoints: 20EP</div>
+                <div class="mb-1 text-lg font-medium dark:text-white">Your EcoPoints: 95EP</div>
                 <div class="w-full h-6 bg-gray-200 rounded-full dark:bg-gray-700">
-                    <div class="h-6 bg-blue-600 rounded-full dark:bg-blue-500" style={{ width: "45%" }}></div>
+                    <div class="h-6 bg-blue-600 rounded-full dark:bg-blue-500" style={{ width: "90%" }}></div>
                 </div>
             </div>
             <Vector />
