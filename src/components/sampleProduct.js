@@ -132,9 +132,10 @@ export default function SampleProduct() {
                         </div>
                         {/* Reviews */}
                         <p className="text-sm mt-6 mb-2 text-gray-700">
-                            By choosing this product you are conscious shopping:
+                            By choosing this product you are consciously shopping:
                         </p>
                         <Points />
+                        5 EP!
                     </div>
 
 

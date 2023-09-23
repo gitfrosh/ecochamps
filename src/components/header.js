@@ -488,7 +488,7 @@ const Header = () => {
                         </Popover.Group>
 
                         {/* Logo */}
-                        <a href="#" className="flex">
+                        <a href="/" className="flex">
                             <span className="sr-only">Your Company</span>
                             <img
                                 className="h-8 w-auto"

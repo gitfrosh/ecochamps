@@ -35,9 +35,9 @@ export default function Home() {
           <div>
             <div class="mb-1 text-lg font-medium dark:text-white">Congrats! You recently unlocked level 2 / "Pollinator"!</div>
 
-            <div class="mb-1 text-lg text-gray-700">Your EcoPoints: 220EP</div>
+            <div class="mb-1 text-lg text-gray-700">Your EcoPoints: 100EP</div>
             <div class="w-full h-6 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div class="h-6 bg-yellow-600 rounded-full dark:bg-yellow-500" style={{ width: "15%" }}></div>
+              <div class="h-6 bg-yellow-600 rounded-full dark:bg-yellow-500" style={{ width: "100%" }}></div>
             </div>
           </div>
 
@@ -48,14 +48,14 @@ export default function Home() {
               <div>
 
                 {/* <div class="text-gray-900 font-bold text-xl mb-2">sdfdf</div> */}
-                <p class="text-gray-700 text-base">T-Shirt / ZARA / EcoPoints: 200</p>
+                <p class="text-gray-700 text-base">T-Shirt / ZARA / EcoPoints: 5</p>
               </div>
             </div></Link>
             <div class="mt-2 order-r border border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
               <div>
 
                 {/* <div class="text-gray-900 font-bold text-xl mb-2">sdfdf</div> */}
-                <p class="text-gray-700 text-base">Socks / H&M / EcoPoints: 5</p>
+                <p class="text-gray-700 text-base">Socks / H&M / EcoPoints: 2</p>
               </div>
             </div>
           </div>
